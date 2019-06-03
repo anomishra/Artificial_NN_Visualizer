@@ -10,12 +10,12 @@ Steps:<br>
    from ann_visualizer.visualize import ann_viz;<br>
    ann_viz(model, view=True, filename="network.gv", title="MyNN graph")<br>
    <br>
-   model - The Keras Sequential model
-   view - If True, it opens the graph preview after executed
-   filename - Where to save the graph. (.gv file format)
-   title - A title for the grap
+   model - The Keras Sequential model<br>
+   view - If True, it opens the graph preview after executed<br>
+   filename - Where to save the graph. (.gv file format)<br>
+   title - A title for the grap<br>
    <br>
-You will get your NN structure visuals.   <br>
+You will get your NN structure visuals.   <br><br>
 For more, kindly visit this official github link: https://github.com/Prodicode/ann-visualizer
    
    
